@@ -1,2 +1,2 @@
 # demon
-mayavi
+Myavi - Major
