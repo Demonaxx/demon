@@ -1,3 +1,2 @@
 # demon
-Myavi - Major
-termite(sol)
+Mayavi Mahaguru
